@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "saludo"
+    },
+    {
+      "id": 3,
+      "title": "abrazo"
+    },
+    {
+      "id": 4,
+      "title": "despedida"
+    },
+    {
+      "id": 5,
+      "title": "como estas"
+    },
+    {
+      "id": 6,
+      "title": "ministerio"
+    },
+  ]
+}
